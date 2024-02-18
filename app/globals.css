@@ -76,7 +76,7 @@
 }
 
 .auth {
-  @apply flex-center min-h-screen w-full bg-cyan-100
+  @apply flex-center min-h-screen w-full bg-gradient-to-r from-cyan-100 via-blue-100 to-cyan-100
 }
 
 .root {
